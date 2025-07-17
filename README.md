@@ -14,13 +14,13 @@
 - reports/: 결과 보고서 및 문서
 - src/: 소스 코드 (패키지 및 모듈)
 
-설명:
-data/: 분석에 사용되는 fake_journal_entries_500.csv 파일이 포함됩니다.
-notebooks/: 데이터 분석 및 모델링을 위한 Jupyter Notebook 파일들이 포함됩니다.
-streamlit_app/: Streamlit 대시보드를 위한 Python 코드(app.py)가 포함됩니다.
-src/: 패키지와 모듈 코드, fraud_detection_ledger 패키지가 포함됩니다.
-reports/: 분석 및 결과 보고서를 저장하는 폴더입니다.
-
+## 폴더 구조
+- data/: 분석에 사용되는 fake_journal_entries_500.csv 파일이 포함됩니다.
+- notebooks/: 데이터 분석 및 모델링을 위한 Jupyter Notebook 파일들이 포함됩니다.
+- streamlit_app/: Streamlit 대시보드를 위한 Python 코드(app.py)가 포함됩니다.
+- reports/: 분석 및 결과 보고서를 저장하는 폴더입니다.
+- src/: 패키지와 모듈 코드, fraud_detection_ledger 패키지가 포함됩니다.
+  
 ## 사용 기술
 - Python: pandas, scikit-learn, PyOD 등 데이터 분석 및 머신러닝 라이브러리
 -  Jupyter Notebook: 데이터 분석 및 모델링을 위한 코드 실행 환경
