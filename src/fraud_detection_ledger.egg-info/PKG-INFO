@@ -1,0 +1,62 @@
+Metadata-Version: 2.4
+Name: fraud_detection_ledger
+Version: 0.1.0
+Summary: ERP 회계전표 기반 이상 거래 탐지 시스템
+Home-page: https://github.com/HyunSu/FraudDetectionLedger
+Author: HyunSu
+Author-email: your.email@example.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: pandas>=2.0
+Requires-Dist: scikit-learn>=1.7
+Requires-Dist: seaborn>=0.13
+Requires-Dist: streamlit>=1.46
+Requires-Dist: holidays>=0.76
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
+Requires-Dist: flake8>=6.0; extra == "dev"
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: provides-extra
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# Fraud Detection Ledger
+
+본 프로젝트는 회계 전표 데이터를 분석하여 자금 횡령 및 부정 거래를 탐지하는 시스템입니다.
+
+## 프로젝트 개요
+- ERP 회계 전표 데이터 기반 이상 거래 탐지
+- 머신러닝 기법을 활용한 이상 패턴 분석
+- Streamlit 대시보드로 결과 시각화
+
+## 폴더 구조
+- data/: 분석에 사용되는 데이터 파일
+- notebooks/: 데이터 분석 및 모델링 코드 (Jupyter Notebook)
+- streamlit_app/: 대시보드 웹 애플리케이션 코드
+- reports/: 결과 보고서 및 문서
+
+## 사용 기술
+- Python (pandas, scikit-learn, PyOD 등)
+- Streamlit
+- Jupyter Notebook
+- Matplotlib, Seaborn
+
+## 시작 방법
+1. 필요한 라이브러리 설치  
+   `pip install -r requirements.txt`
+
+2. Jupyter Notebook에서 분석 코드 실행 및 검증
+
+3. Streamlit 앱 실행  
+   `streamlit run streamlit_app/app.py`

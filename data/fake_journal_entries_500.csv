@@ -1,0 +1,501 @@
+entry_id,date,account_code,amount,vendor,description,entered_by,time,is_holiday
+1,2025-07-07,5000,1500000,XYZ Ltd,Consulting Fees,user01,11:00,False
+2,2025-07-15,7000,500000,ABC Corp,Office Supplies,user01,18:45,False
+3,2025-07-29,4000,1200000,JKL Co,Marketing Expense,user01,12:30,False
+4,2025-07-26,7000,800000,XYZ Ltd,Equipment Purchase,user02,10:30,False
+5,2025-07-11,4000,-500000,XYZ Ltd,Refund,user04,18:45,False
+6,2025-07-21,5000,-200000,XYZ Ltd,Refund,user04,11:45,False
+7,2025-07-24,7000,50000,ABC Corp,Office Supplies,user03,10:15,False
+8,2025-07-21,6000,-1000000,ABC Corp,Refund,user03,09:45,False
+9,2025-07-12,7000,500000,ABC Corp,Office Supplies,user04,13:15,False
+10,2025-07-28,6000,200000,JKL Co,Equipment Purchase,user05,12:00,False
+11,2025-07-12,4000,800000,XYZ Ltd,Office Supplies,user02,17:15,False
+12,2025-07-29,4000,50000,GHI LLC,Consulting Fees,user03,19:00,False
+13,2025-07-17,6000,300000,XYZ Ltd,Equipment Purchase,user03,18:30,True
+14,2025-07-10,6000,200000,ABC Corp,Consulting Fees,user03,19:45,False
+15,2025-07-16,5000,800000,XYZ Ltd,Consulting Fees,user05,10:45,False
+16,2025-07-23,5000,-300000,DEF Inc,Refund,user04,11:45,False
+17,2025-07-25,7000,-1200000,DEF Inc,Refund,user01,10:00,False
+18,2025-07-19,6000,2000000,XYZ Ltd,Equipment Purchase,user01,14:00,False
+19,2025-07-09,7000,300000,XYZ Ltd,Equipment Purchase,user04,14:15,False
+20,2025-07-04,6000,100000,JKL Co,Consulting Fees,user03,16:45,False
+21,2025-07-14,6000,500000,XYZ Ltd,Travel Expenses,user04,09:15,False
+22,2025-07-09,4000,500000,ABC Corp,Travel Expenses,user02,17:00,False
+23,2025-07-02,7000,1200000,JKL Co,Equipment Purchase,user01,11:45,False
+24,2025-07-15,6000,2000000,JKL Co,Travel Expenses,user01,19:30,False
+25,2025-07-12,6000,50000,DEF Inc,Equipment Purchase,user01,20:45,False
+26,2025-07-15,4000,1200000,DEF Inc,Travel Expenses,user01,10:15,False
+27,2025-07-17,4000,1000000,DEF Inc,Consulting Fees,user05,11:15,True
+28,2025-07-08,5000,500000,DEF Inc,Consulting Fees,user05,11:15,False
+29,2025-07-30,4000,500000,JKL Co,Marketing Expense,user02,13:15,False
+30,2025-07-10,4000,300000,DEF Inc,Office Supplies,user03,11:15,False
+31,2025-07-29,5000,100000,JKL Co,Office Supplies,user03,09:15,False
+32,2025-07-12,5000,1500000,XYZ Ltd,Office Supplies,user01,09:15,False
+33,2025-07-30,6000,500000,JKL Co,Consulting Fees,user04,11:15,False
+34,2025-07-16,5000,300000,DEF Inc,Consulting Fees,user05,15:15,False
+35,2025-07-23,6000,800000,GHI LLC,Equipment Purchase,user04,19:00,False
+36,2025-07-30,5000,300000,XYZ Ltd,Office Supplies,user05,15:00,False
+37,2025-07-16,5000,2000000,JKL Co,Marketing Expense,user01,20:15,False
+38,2025-07-15,4000,50000,XYZ Ltd,Office Supplies,user02,12:45,False
+39,2025-07-26,4000,-1000000,JKL Co,Refund,user01,16:45,False
+40,2025-07-28,7000,200000,XYZ Ltd,Equipment Purchase,user02,19:00,False
+41,2025-07-09,7000,100000,XYZ Ltd,Equipment Purchase,user05,20:30,False
+42,2025-07-13,5000,1000000,ABC Corp,Travel Expenses,user04,08:00,False
+43,2025-07-07,7000,200000,GHI LLC,Travel Expenses,user01,16:45,False
+44,2025-07-01,4000,800000,GHI LLC,Office Supplies,user01,19:45,False
+45,2025-07-24,5000,1000000,XYZ Ltd,Office Supplies,user03,18:30,False
+46,2025-07-17,5000,500000,GHI LLC,Travel Expenses,user02,15:30,True
+47,2025-07-03,5000,200000,ABC Corp,Travel Expenses,user02,08:30,False
+48,2025-07-05,4000,1000000,ABC Corp,Marketing Expense,user04,17:30,False
+49,2025-07-26,4000,1000000,XYZ Ltd,Office Supplies,user05,16:45,False
+50,2025-07-07,7000,300000,XYZ Ltd,Travel Expenses,user02,16:45,False
+51,2025-07-12,7000,50000,ABC Corp,Consulting Fees,user04,09:00,False
+52,2025-07-16,6000,200000,GHI LLC,Travel Expenses,user04,14:30,False
+53,2025-07-30,7000,800000,XYZ Ltd,Equipment Purchase,user05,15:00,False
+54,2025-07-03,4000,200000,JKL Co,Consulting Fees,user02,19:45,False
+55,2025-07-22,6000,50000,ABC Corp,Equipment Purchase,user05,18:30,False
+56,2025-07-01,5000,500000,ABC Corp,Marketing Expense,user01,10:00,False
+57,2025-07-15,4000,50000,JKL Co,Consulting Fees,user05,10:00,False
+58,2025-07-05,4000,100000,JKL Co,Travel Expenses,user01,17:30,False
+59,2025-07-14,4000,500000,JKL Co,Marketing Expense,user02,14:30,False
+60,2025-07-09,6000,2000000,DEF Inc,Marketing Expense,user01,17:15,False
+61,2025-07-28,6000,800000,XYZ Ltd,Equipment Purchase,user02,20:30,False
+62,2025-07-07,6000,300000,GHI LLC,Consulting Fees,user03,08:45,False
+63,2025-07-29,4000,1000000,GHI LLC,Office Supplies,user03,11:15,False
+64,2025-07-05,4000,500000,JKL Co,Office Supplies,user05,14:30,False
+65,2025-07-13,5000,-500000,DEF Inc,Refund,user02,18:00,False
+66,2025-07-04,5000,-200000,GHI LLC,Refund,user01,20:45,False
+67,2025-07-07,4000,-800000,JKL Co,Refund,user05,18:30,False
+68,2025-07-22,5000,800000,DEF Inc,Office Supplies,user03,19:15,False
+69,2025-07-10,5000,800000,DEF Inc,Marketing Expense,user01,20:15,False
+70,2025-07-25,6000,500000,XYZ Ltd,Consulting Fees,user03,12:15,False
+71,2025-07-28,6000,500000,ABC Corp,Travel Expenses,user03,19:45,False
+72,2025-07-12,4000,-1000000,ABC Corp,Refund,user01,11:15,False
+73,2025-07-30,6000,1000000,XYZ Ltd,Consulting Fees,user03,18:45,False
+74,2025-07-26,7000,500000,JKL Co,Equipment Purchase,user04,14:45,False
+75,2025-07-25,4000,2000000,DEF Inc,Consulting Fees,user01,14:15,False
+76,2025-07-01,7000,500000,XYZ Ltd,Consulting Fees,user05,08:00,False
+77,2025-07-27,5000,-1200000,XYZ Ltd,Refund,user01,16:45,True
+78,2025-07-13,5000,2000000,XYZ Ltd,Travel Expenses,user01,16:30,False
+79,2025-07-07,7000,1000000,ABC Corp,Consulting Fees,user02,13:45,False
+80,2025-07-27,7000,-800000,XYZ Ltd,Refund,user02,16:15,True
+81,2025-07-05,4000,100000,GHI LLC,Equipment Purchase,user03,08:30,False
+82,2025-07-10,7000,100000,DEF Inc,Consulting Fees,user01,19:45,False
+83,2025-07-15,5000,1000000,ABC Corp,Consulting Fees,user03,18:15,False
+84,2025-07-24,6000,-300000,ABC Corp,Refund,user02,16:45,False
+85,2025-07-17,7000,200000,JKL Co,Equipment Purchase,user03,08:15,True
+86,2025-07-20,6000,50000,XYZ Ltd,Office Supplies,user03,19:15,False
+87,2025-07-07,4000,200000,JKL Co,Office Supplies,user05,09:30,False
+88,2025-07-17,6000,200000,GHI LLC,Equipment Purchase,user04,12:00,True
+89,2025-07-24,7000,500000,JKL Co,Office Supplies,user05,08:30,False
+90,2025-07-17,7000,200000,ABC Corp,Office Supplies,user02,09:15,True
+91,2025-07-28,5000,1000000,DEF Inc,Marketing Expense,user05,13:30,False
+92,2025-07-05,6000,50000,JKL Co,Equipment Purchase,user04,08:00,False
+93,2025-07-19,6000,800000,JKL Co,Office Supplies,user03,09:00,False
+94,2025-07-12,6000,800000,GHI LLC,Travel Expenses,user03,17:45,False
+95,2025-07-06,5000,500000,GHI LLC,Consulting Fees,user03,14:45,False
+96,2025-07-23,5000,800000,JKL Co,Equipment Purchase,user04,18:45,False
+97,2025-07-27,4000,200000,DEF Inc,Travel Expenses,user05,08:30,True
+98,2025-07-06,6000,100000,GHI LLC,Travel Expenses,user03,15:00,False
+99,2025-07-20,5000,300000,JKL Co,Equipment Purchase,user04,09:15,False
+100,2025-07-22,5000,1000000,ABC Corp,Equipment Purchase,user04,18:30,False
+101,2025-07-16,6000,500000,ABC Corp,Equipment Purchase,user03,08:00,False
+102,2025-07-28,5000,-800000,XYZ Ltd,Refund,user02,18:15,False
+103,2025-07-16,5000,50000,GHI LLC,Office Supplies,user02,20:30,False
+104,2025-07-20,7000,1000000,GHI LLC,Office Supplies,user05,19:30,False
+105,2025-07-04,7000,100000,GHI LLC,Equipment Purchase,user05,10:15,False
+106,2025-07-03,4000,100000,ABC Corp,Consulting Fees,user04,10:45,False
+107,2025-07-07,7000,100000,ABC Corp,Consulting Fees,user04,11:00,False
+108,2025-07-01,7000,100000,XYZ Ltd,Office Supplies,user05,15:45,False
+109,2025-07-07,6000,800000,GHI LLC,Marketing Expense,user04,09:45,False
+110,2025-07-01,7000,1000000,JKL Co,Equipment Purchase,user05,18:45,False
+111,2025-07-25,7000,100000,GHI LLC,Equipment Purchase,user04,16:15,False
+112,2025-07-23,6000,1000000,JKL Co,Consulting Fees,user03,17:30,False
+113,2025-07-07,6000,800000,GHI LLC,Consulting Fees,user04,19:45,False
+114,2025-07-26,6000,-100000,DEF Inc,Refund,user01,16:45,False
+115,2025-07-28,5000,50000,XYZ Ltd,Consulting Fees,user05,08:15,False
+116,2025-07-01,5000,800000,ABC Corp,Consulting Fees,user04,19:00,False
+117,2025-07-05,7000,-300000,GHI LLC,Refund,user04,18:30,False
+118,2025-07-09,4000,1500000,JKL Co,Travel Expenses,user01,16:30,False
+119,2025-07-19,6000,300000,DEF Inc,Office Supplies,user04,10:45,False
+120,2025-07-24,5000,1000000,GHI LLC,Travel Expenses,user04,13:45,False
+121,2025-07-01,7000,200000,ABC Corp,Travel Expenses,user02,15:45,False
+122,2025-07-11,7000,200000,XYZ Ltd,Equipment Purchase,user04,08:45,False
+123,2025-07-04,4000,100000,GHI LLC,Marketing Expense,user04,13:45,False
+124,2025-07-20,4000,500000,ABC Corp,Equipment Purchase,user05,10:45,False
+125,2025-07-30,5000,100000,ABC Corp,Travel Expenses,user04,16:30,False
+126,2025-07-25,5000,-300000,GHI LLC,Refund,user03,20:15,False
+127,2025-07-14,6000,200000,GHI LLC,Travel Expenses,user03,09:15,False
+128,2025-07-22,7000,1000000,ABC Corp,Office Supplies,user03,10:45,False
+129,2025-07-29,5000,-50000,ABC Corp,Refund,user05,16:45,False
+130,2025-07-01,4000,100000,JKL Co,Consulting Fees,user01,11:00,False
+131,2025-07-14,7000,100000,ABC Corp,Consulting Fees,user02,12:45,False
+132,2025-07-20,6000,100000,DEF Inc,Travel Expenses,user05,15:45,False
+133,2025-07-08,4000,500000,XYZ Ltd,Marketing Expense,user02,14:30,False
+134,2025-07-17,4000,50000,DEF Inc,Marketing Expense,user03,08:45,True
+135,2025-07-12,7000,800000,XYZ Ltd,Travel Expenses,user05,18:30,False
+136,2025-07-22,5000,1000000,ABC Corp,Equipment Purchase,user01,14:15,False
+137,2025-07-14,4000,1000000,JKL Co,Equipment Purchase,user03,13:15,False
+138,2025-07-13,6000,1500000,ABC Corp,Equipment Purchase,user01,10:15,False
+139,2025-07-08,4000,-800000,GHI LLC,Refund,user05,18:30,False
+140,2025-07-02,6000,50000,GHI LLC,Travel Expenses,user04,12:15,False
+141,2025-07-01,6000,300000,JKL Co,Consulting Fees,user02,19:30,False
+142,2025-07-01,7000,1000000,GHI LLC,Travel Expenses,user05,12:45,False
+143,2025-07-29,5000,-200000,ABC Corp,Refund,user05,10:45,False
+144,2025-07-03,7000,300000,JKL Co,Consulting Fees,user03,08:45,False
+145,2025-07-17,6000,800000,ABC Corp,Travel Expenses,user05,19:45,True
+146,2025-07-30,5000,-1000000,GHI LLC,Refund,user04,20:15,False
+147,2025-07-21,6000,-200000,DEF Inc,Refund,user02,13:30,False
+148,2025-07-28,4000,-800000,JKL Co,Refund,user05,16:00,False
+149,2025-07-24,7000,50000,GHI LLC,Consulting Fees,user02,20:00,False
+150,2025-07-14,7000,1000000,GHI LLC,Consulting Fees,user05,12:30,False
+151,2025-07-03,4000,1000000,DEF Inc,Office Supplies,user04,19:00,False
+152,2025-07-20,5000,300000,DEF Inc,Equipment Purchase,user02,20:00,False
+153,2025-07-23,6000,200000,GHI LLC,Travel Expenses,user05,08:45,False
+154,2025-07-03,7000,-200000,DEF Inc,Refund,user05,09:00,False
+155,2025-07-10,4000,200000,XYZ Ltd,Consulting Fees,user03,13:15,False
+156,2025-07-03,5000,50000,XYZ Ltd,Equipment Purchase,user03,15:15,False
+157,2025-07-24,6000,800000,JKL Co,Travel Expenses,user02,09:45,False
+158,2025-07-15,4000,-500000,XYZ Ltd,Refund,user05,13:30,False
+159,2025-07-02,5000,-100000,DEF Inc,Refund,user03,18:15,False
+160,2025-07-02,4000,-100000,ABC Corp,Refund,user01,17:00,False
+161,2025-07-08,5000,200000,GHI LLC,Equipment Purchase,user05,08:00,False
+162,2025-07-11,7000,-500000,GHI LLC,Refund,user01,13:45,False
+163,2025-07-07,4000,200000,DEF Inc,Consulting Fees,user04,20:15,False
+164,2025-07-23,7000,50000,GHI LLC,Office Supplies,user04,17:30,False
+165,2025-07-18,5000,800000,XYZ Ltd,Office Supplies,user01,16:45,False
+166,2025-07-13,5000,200000,ABC Corp,Office Supplies,user05,19:15,False
+167,2025-07-07,5000,1000000,JKL Co,Travel Expenses,user05,16:45,False
+168,2025-07-13,6000,300000,JKL Co,Travel Expenses,user04,11:00,False
+169,2025-07-08,4000,200000,JKL Co,Marketing Expense,user04,19:30,False
+170,2025-07-23,5000,100000,DEF Inc,Equipment Purchase,user01,19:15,False
+171,2025-07-02,4000,1200000,XYZ Ltd,Marketing Expense,user01,14:30,False
+172,2025-07-22,7000,2000000,DEF Inc,Marketing Expense,user01,10:00,False
+173,2025-07-26,7000,-2000000,ABC Corp,Refund,user01,20:15,False
+174,2025-07-26,5000,200000,GHI LLC,Equipment Purchase,user02,17:15,False
+175,2025-07-17,6000,800000,XYZ Ltd,Consulting Fees,user01,11:15,True
+176,2025-07-06,6000,1500000,GHI LLC,Marketing Expense,user01,13:30,False
+177,2025-07-28,7000,1500000,DEF Inc,Equipment Purchase,user01,12:00,False
+178,2025-07-08,7000,500000,ABC Corp,Travel Expenses,user05,12:45,False
+179,2025-07-12,6000,50000,JKL Co,Travel Expenses,user05,19:00,False
+180,2025-07-07,5000,50000,JKL Co,Office Supplies,user03,11:15,False
+181,2025-07-13,6000,50000,JKL Co,Equipment Purchase,user05,11:15,False
+182,2025-07-15,7000,100000,DEF Inc,Travel Expenses,user01,10:30,False
+183,2025-07-08,7000,500000,ABC Corp,Travel Expenses,user02,11:45,False
+184,2025-07-13,6000,200000,DEF Inc,Travel Expenses,user04,09:45,False
+185,2025-07-10,7000,200000,DEF Inc,Travel Expenses,user01,10:00,False
+186,2025-07-24,4000,1000000,GHI LLC,Marketing Expense,user04,10:45,False
+187,2025-07-26,7000,1500000,JKL Co,Office Supplies,user01,14:15,False
+188,2025-07-05,7000,500000,ABC Corp,Travel Expenses,user01,17:00,False
+189,2025-07-30,7000,-500000,GHI LLC,Refund,user02,14:30,False
+190,2025-07-09,6000,2000000,GHI LLC,Consulting Fees,user01,19:00,False
+191,2025-07-01,5000,50000,XYZ Ltd,Office Supplies,user04,17:15,False
+192,2025-07-01,7000,500000,ABC Corp,Office Supplies,user03,09:45,False
+193,2025-07-30,7000,1000000,ABC Corp,Office Supplies,user02,13:45,False
+194,2025-07-25,6000,300000,JKL Co,Equipment Purchase,user02,15:00,False
+195,2025-07-21,7000,300000,XYZ Ltd,Travel Expenses,user03,08:45,False
+196,2025-07-29,7000,500000,XYZ Ltd,Consulting Fees,user04,14:45,False
+197,2025-07-05,5000,500000,ABC Corp,Equipment Purchase,user05,13:00,False
+198,2025-07-23,6000,1000000,JKL Co,Travel Expenses,user03,10:45,False
+199,2025-07-26,6000,1000000,DEF Inc,Office Supplies,user03,10:00,False
+200,2025-07-22,7000,500000,XYZ Ltd,Equipment Purchase,user05,16:00,False
+201,2025-07-14,6000,500000,DEF Inc,Travel Expenses,user04,19:00,False
+202,2025-07-15,7000,1000000,GHI LLC,Marketing Expense,user05,08:15,False
+203,2025-07-14,5000,1000000,JKL Co,Consulting Fees,user03,11:00,False
+204,2025-07-12,4000,100000,DEF Inc,Travel Expenses,user04,17:15,False
+205,2025-07-16,7000,800000,XYZ Ltd,Travel Expenses,user04,12:30,False
+206,2025-07-04,6000,50000,ABC Corp,Consulting Fees,user04,08:15,False
+207,2025-07-30,7000,50000,ABC Corp,Marketing Expense,user04,12:30,False
+208,2025-07-26,5000,300000,ABC Corp,Equipment Purchase,user02,17:15,False
+209,2025-07-05,6000,-1000000,JKL Co,Refund,user04,11:15,False
+210,2025-07-20,6000,800000,JKL Co,Office Supplies,user04,17:15,False
+211,2025-07-19,7000,200000,JKL Co,Equipment Purchase,user04,17:45,False
+212,2025-07-01,6000,100000,XYZ Ltd,Equipment Purchase,user01,15:00,False
+213,2025-07-13,4000,1200000,GHI LLC,Equipment Purchase,user01,11:45,False
+214,2025-07-24,4000,-800000,ABC Corp,Refund,user02,14:15,False
+215,2025-07-17,6000,1000000,DEF Inc,Office Supplies,user03,19:45,True
+216,2025-07-27,5000,300000,JKL Co,Consulting Fees,user03,11:45,True
+217,2025-07-12,5000,500000,XYZ Ltd,Equipment Purchase,user04,09:30,False
+218,2025-07-28,7000,50000,JKL Co,Marketing Expense,user02,08:00,False
+219,2025-07-29,5000,300000,XYZ Ltd,Marketing Expense,user02,10:30,False
+220,2025-07-05,7000,-800000,DEF Inc,Refund,user04,19:30,False
+221,2025-07-01,5000,-300000,ABC Corp,Refund,user01,08:45,False
+222,2025-07-10,6000,200000,GHI LLC,Marketing Expense,user04,18:45,False
+223,2025-07-29,5000,-300000,GHI LLC,Refund,user03,20:45,False
+224,2025-07-14,7000,50000,JKL Co,Consulting Fees,user04,09:00,False
+225,2025-07-19,6000,-500000,ABC Corp,Refund,user03,09:30,False
+226,2025-07-23,4000,200000,JKL Co,Office Supplies,user04,08:15,False
+227,2025-07-08,5000,-1000000,JKL Co,Refund,user04,20:15,False
+228,2025-07-10,5000,100000,JKL Co,Equipment Purchase,user03,17:15,False
+229,2025-07-02,5000,800000,ABC Corp,Equipment Purchase,user03,10:00,False
+230,2025-07-07,6000,1500000,XYZ Ltd,Office Supplies,user01,11:15,False
+231,2025-07-21,7000,200000,XYZ Ltd,Equipment Purchase,user01,09:00,False
+232,2025-07-11,6000,100000,JKL Co,Marketing Expense,user02,20:45,False
+233,2025-07-04,6000,200000,GHI LLC,Consulting Fees,user05,16:00,False
+234,2025-07-29,4000,-800000,GHI LLC,Refund,user03,16:45,False
+235,2025-07-10,7000,1200000,JKL Co,Equipment Purchase,user01,12:00,False
+236,2025-07-24,4000,50000,DEF Inc,Travel Expenses,user03,10:00,False
+237,2025-07-03,6000,50000,DEF Inc,Travel Expenses,user05,11:15,False
+238,2025-07-17,6000,300000,ABC Corp,Equipment Purchase,user05,14:45,True
+239,2025-07-24,6000,300000,JKL Co,Office Supplies,user02,14:15,False
+240,2025-07-05,7000,800000,DEF Inc,Office Supplies,user02,19:00,False
+241,2025-07-23,4000,50000,ABC Corp,Consulting Fees,user04,20:30,False
+242,2025-07-25,4000,300000,XYZ Ltd,Office Supplies,user03,10:00,False
+243,2025-07-30,7000,100000,DEF Inc,Travel Expenses,user05,08:00,False
+244,2025-07-30,5000,300000,GHI LLC,Marketing Expense,user05,11:45,False
+245,2025-07-25,6000,500000,ABC Corp,Travel Expenses,user01,13:00,False
+246,2025-07-27,7000,100000,XYZ Ltd,Travel Expenses,user03,10:00,True
+247,2025-07-04,6000,50000,JKL Co,Equipment Purchase,user03,19:00,False
+248,2025-07-09,6000,50000,XYZ Ltd,Travel Expenses,user03,10:45,False
+249,2025-07-09,4000,1000000,XYZ Ltd,Travel Expenses,user01,14:45,False
+250,2025-07-14,6000,50000,XYZ Ltd,Office Supplies,user05,11:30,False
+251,2025-07-26,5000,1000000,ABC Corp,Marketing Expense,user02,12:00,False
+252,2025-07-03,5000,100000,XYZ Ltd,Marketing Expense,user05,19:00,False
+253,2025-07-20,4000,1000000,DEF Inc,Consulting Fees,user03,18:00,False
+254,2025-07-04,6000,100000,XYZ Ltd,Marketing Expense,user02,12:30,False
+255,2025-07-16,4000,50000,DEF Inc,Consulting Fees,user01,16:30,False
+256,2025-07-13,4000,-500000,XYZ Ltd,Refund,user02,12:15,False
+257,2025-07-26,7000,50000,JKL Co,Consulting Fees,user03,14:15,False
+258,2025-07-26,6000,300000,JKL Co,Travel Expenses,user01,12:30,False
+259,2025-07-23,5000,50000,JKL Co,Travel Expenses,user05,20:30,False
+260,2025-07-11,6000,1000000,GHI LLC,Equipment Purchase,user01,09:30,False
+261,2025-07-12,7000,1500000,ABC Corp,Travel Expenses,user01,16:15,False
+262,2025-07-26,4000,800000,ABC Corp,Travel Expenses,user04,19:00,False
+263,2025-07-29,4000,500000,XYZ Ltd,Consulting Fees,user03,13:30,False
+264,2025-07-14,6000,500000,GHI LLC,Equipment Purchase,user03,20:45,False
+265,2025-07-10,7000,-500000,JKL Co,Refund,user05,16:15,False
+266,2025-07-27,4000,300000,JKL Co,Office Supplies,user05,17:15,True
+267,2025-07-05,5000,300000,GHI LLC,Travel Expenses,user02,20:00,False
+268,2025-07-06,7000,1000000,GHI LLC,Travel Expenses,user03,10:45,False
+269,2025-07-16,6000,1500000,DEF Inc,Equipment Purchase,user01,20:00,False
+270,2025-07-22,4000,800000,ABC Corp,Travel Expenses,user02,11:00,False
+271,2025-07-07,6000,1200000,XYZ Ltd,Equipment Purchase,user01,16:00,False
+272,2025-07-04,6000,50000,ABC Corp,Marketing Expense,user05,11:15,False
+273,2025-07-28,7000,200000,ABC Corp,Equipment Purchase,user04,10:00,False
+274,2025-07-12,6000,-500000,ABC Corp,Refund,user03,13:30,False
+275,2025-07-27,5000,500000,GHI LLC,Consulting Fees,user05,17:15,True
+276,2025-07-19,6000,1000000,JKL Co,Office Supplies,user02,14:15,False
+277,2025-07-03,5000,-50000,GHI LLC,Refund,user03,20:00,False
+278,2025-07-18,4000,1000000,JKL Co,Marketing Expense,user05,19:15,False
+279,2025-07-26,6000,50000,DEF Inc,Consulting Fees,user03,11:45,False
+280,2025-07-08,5000,200000,XYZ Ltd,Office Supplies,user03,20:30,False
+281,2025-07-09,4000,800000,XYZ Ltd,Travel Expenses,user05,14:00,False
+282,2025-07-03,7000,2000000,GHI LLC,Consulting Fees,user01,20:45,False
+283,2025-07-30,6000,200000,DEF Inc,Consulting Fees,user04,16:30,False
+284,2025-07-28,4000,1000000,ABC Corp,Marketing Expense,user03,08:00,False
+285,2025-07-24,4000,100000,ABC Corp,Marketing Expense,user02,08:15,False
+286,2025-07-21,7000,300000,GHI LLC,Equipment Purchase,user03,13:15,False
+287,2025-07-12,6000,300000,XYZ Ltd,Travel Expenses,user05,20:45,False
+288,2025-07-13,7000,-50000,ABC Corp,Refund,user05,20:30,False
+289,2025-07-21,7000,800000,JKL Co,Equipment Purchase,user03,13:00,False
+290,2025-07-11,7000,50000,JKL Co,Consulting Fees,user03,19:00,False
+291,2025-07-04,5000,1500000,DEF Inc,Consulting Fees,user01,10:30,False
+292,2025-07-20,4000,200000,GHI LLC,Office Supplies,user03,16:15,False
+293,2025-07-15,7000,100000,JKL Co,Consulting Fees,user04,16:00,False
+294,2025-07-14,6000,500000,ABC Corp,Marketing Expense,user02,08:00,False
+295,2025-07-22,4000,1000000,GHI LLC,Equipment Purchase,user04,13:30,False
+296,2025-07-16,7000,-1200000,JKL Co,Refund,user01,14:00,False
+297,2025-07-11,7000,800000,DEF Inc,Equipment Purchase,user04,19:15,False
+298,2025-07-16,7000,1500000,DEF Inc,Consulting Fees,user01,15:15,False
+299,2025-07-12,7000,1200000,JKL Co,Consulting Fees,user01,15:45,False
+300,2025-07-21,7000,500000,DEF Inc,Office Supplies,user04,15:15,False
+301,2025-07-28,5000,-100000,ABC Corp,Refund,user03,11:15,False
+302,2025-07-08,5000,800000,DEF Inc,Office Supplies,user05,17:45,False
+303,2025-07-18,5000,800000,XYZ Ltd,Equipment Purchase,user03,19:45,False
+304,2025-07-05,5000,1200000,ABC Corp,Consulting Fees,user01,16:45,False
+305,2025-07-27,7000,1000000,GHI LLC,Equipment Purchase,user02,13:30,True
+306,2025-07-17,7000,1000000,JKL Co,Marketing Expense,user05,16:00,True
+307,2025-07-21,6000,200000,XYZ Ltd,Equipment Purchase,user05,11:00,False
+308,2025-07-28,7000,50000,DEF Inc,Travel Expenses,user04,20:00,False
+309,2025-07-14,6000,500000,JKL Co,Office Supplies,user03,10:00,False
+310,2025-07-06,4000,1500000,DEF Inc,Office Supplies,user01,09:30,False
+311,2025-07-05,4000,50000,JKL Co,Equipment Purchase,user03,16:15,False
+312,2025-07-10,7000,500000,JKL Co,Travel Expenses,user05,15:15,False
+313,2025-07-18,4000,1000000,GHI LLC,Equipment Purchase,user05,18:00,False
+314,2025-07-05,6000,800000,JKL Co,Consulting Fees,user05,14:45,False
+315,2025-07-01,4000,500000,GHI LLC,Consulting Fees,user04,13:00,False
+316,2025-07-18,4000,-1000000,JKL Co,Refund,user01,08:30,False
+317,2025-07-21,7000,50000,GHI LLC,Consulting Fees,user02,17:30,False
+318,2025-07-25,5000,500000,DEF Inc,Marketing Expense,user05,13:30,False
+319,2025-07-27,7000,200000,DEF Inc,Travel Expenses,user03,08:00,True
+320,2025-07-01,6000,50000,ABC Corp,Equipment Purchase,user05,09:00,False
+321,2025-07-03,7000,50000,DEF Inc,Marketing Expense,user03,08:00,False
+322,2025-07-16,5000,800000,DEF Inc,Equipment Purchase,user03,14:15,False
+323,2025-07-28,6000,-100000,GHI LLC,Refund,user01,08:00,False
+324,2025-07-05,4000,500000,DEF Inc,Equipment Purchase,user02,13:30,False
+325,2025-07-21,6000,300000,XYZ Ltd,Equipment Purchase,user05,14:00,False
+326,2025-07-21,7000,50000,JKL Co,Equipment Purchase,user05,12:15,False
+327,2025-07-10,6000,-50000,XYZ Ltd,Refund,user03,10:00,False
+328,2025-07-21,5000,200000,XYZ Ltd,Travel Expenses,user02,16:15,False
+329,2025-07-01,6000,100000,ABC Corp,Office Supplies,user02,10:00,False
+330,2025-07-13,4000,1000000,DEF Inc,Marketing Expense,user05,11:15,False
+331,2025-07-01,7000,100000,XYZ Ltd,Marketing Expense,user05,08:45,False
+332,2025-07-02,5000,100000,GHI LLC,Equipment Purchase,user02,19:30,False
+333,2025-07-08,5000,2000000,GHI LLC,Equipment Purchase,user01,14:15,False
+334,2025-07-26,7000,200000,XYZ Ltd,Equipment Purchase,user05,09:15,False
+335,2025-07-22,7000,-100000,XYZ Ltd,Refund,user05,10:30,False
+336,2025-07-18,7000,800000,GHI LLC,Marketing Expense,user03,19:00,False
+337,2025-07-22,7000,1000000,XYZ Ltd,Travel Expenses,user03,19:00,False
+338,2025-07-30,5000,1000000,DEF Inc,Marketing Expense,user02,18:00,False
+339,2025-07-17,4000,-1000000,JKL Co,Refund,user01,14:30,True
+340,2025-07-05,7000,-1200000,JKL Co,Refund,user01,12:15,False
+341,2025-07-02,4000,1000000,XYZ Ltd,Travel Expenses,user02,18:30,False
+342,2025-07-07,7000,200000,ABC Corp,Office Supplies,user04,13:45,False
+343,2025-07-28,5000,-500000,GHI LLC,Refund,user04,09:15,False
+344,2025-07-18,4000,-1200000,DEF Inc,Refund,user01,09:15,False
+345,2025-07-30,6000,100000,GHI LLC,Office Supplies,user02,18:30,False
+346,2025-07-02,7000,1000000,GHI LLC,Equipment Purchase,user02,11:00,False
+347,2025-07-06,4000,50000,DEF Inc,Office Supplies,user05,08:45,False
+348,2025-07-15,7000,1000000,ABC Corp,Consulting Fees,user02,19:15,False
+349,2025-07-23,4000,-100000,ABC Corp,Refund,user03,17:30,False
+350,2025-07-17,7000,300000,ABC Corp,Equipment Purchase,user02,12:00,True
+351,2025-07-04,4000,300000,JKL Co,Marketing Expense,user01,17:45,False
+352,2025-07-17,5000,100000,DEF Inc,Equipment Purchase,user05,17:00,True
+353,2025-07-28,6000,50000,XYZ Ltd,Marketing Expense,user04,11:45,False
+354,2025-07-05,4000,300000,JKL Co,Consulting Fees,user05,09:15,False
+355,2025-07-21,4000,50000,GHI LLC,Marketing Expense,user03,09:00,False
+356,2025-07-30,7000,50000,DEF Inc,Equipment Purchase,user04,18:30,False
+357,2025-07-16,6000,800000,ABC Corp,Office Supplies,user03,18:30,False
+358,2025-07-15,4000,100000,JKL Co,Equipment Purchase,user03,16:30,False
+359,2025-07-23,6000,100000,JKL Co,Office Supplies,user03,18:15,False
+360,2025-07-16,5000,1000000,GHI LLC,Equipment Purchase,user03,15:45,False
+361,2025-07-08,5000,800000,ABC Corp,Consulting Fees,user04,11:45,False
+362,2025-07-25,5000,-50000,ABC Corp,Refund,user04,10:45,False
+363,2025-07-03,6000,-50000,JKL Co,Refund,user02,18:00,False
+364,2025-07-18,7000,1000000,DEF Inc,Marketing Expense,user04,20:15,False
+365,2025-07-19,6000,-100000,ABC Corp,Refund,user01,10:00,False
+366,2025-07-05,6000,200000,GHI LLC,Office Supplies,user03,09:45,False
+367,2025-07-10,7000,800000,DEF Inc,Travel Expenses,user04,20:15,False
+368,2025-07-21,7000,300000,DEF Inc,Equipment Purchase,user02,13:00,False
+369,2025-07-05,7000,200000,ABC Corp,Office Supplies,user05,16:45,False
+370,2025-07-26,6000,500000,DEF Inc,Consulting Fees,user04,09:00,False
+371,2025-07-14,6000,-2000000,GHI LLC,Refund,user01,17:00,False
+372,2025-07-27,5000,800000,GHI LLC,Travel Expenses,user05,16:15,True
+373,2025-07-25,6000,300000,JKL Co,Office Supplies,user03,16:15,False
+374,2025-07-15,4000,200000,ABC Corp,Equipment Purchase,user04,15:15,False
+375,2025-07-11,5000,200000,ABC Corp,Marketing Expense,user04,20:00,False
+376,2025-07-26,7000,1000000,ABC Corp,Marketing Expense,user02,11:00,False
+377,2025-07-08,6000,50000,DEF Inc,Consulting Fees,user02,08:30,False
+378,2025-07-29,5000,500000,GHI LLC,Office Supplies,user04,11:30,False
+379,2025-07-15,4000,200000,JKL Co,Travel Expenses,user03,15:15,False
+380,2025-07-14,7000,-500000,DEF Inc,Refund,user02,17:45,False
+381,2025-07-23,4000,100000,XYZ Ltd,Office Supplies,user03,15:15,False
+382,2025-07-13,4000,500000,DEF Inc,Travel Expenses,user04,17:15,False
+383,2025-07-27,5000,800000,JKL Co,Travel Expenses,user03,15:30,True
+384,2025-07-07,5000,800000,ABC Corp,Travel Expenses,user03,10:30,False
+385,2025-07-23,7000,1000000,XYZ Ltd,Office Supplies,user02,18:30,False
+386,2025-07-28,6000,50000,DEF Inc,Equipment Purchase,user04,20:15,False
+387,2025-07-26,5000,-200000,XYZ Ltd,Refund,user01,13:30,False
+388,2025-07-19,4000,500000,XYZ Ltd,Consulting Fees,user03,16:30,False
+389,2025-07-05,4000,100000,DEF Inc,Travel Expenses,user02,19:15,False
+390,2025-07-07,7000,-500000,JKL Co,Refund,user05,16:00,False
+391,2025-07-07,4000,500000,DEF Inc,Office Supplies,user02,13:15,False
+392,2025-07-30,7000,800000,JKL Co,Equipment Purchase,user04,19:00,False
+393,2025-07-17,4000,1000000,XYZ Ltd,Travel Expenses,user04,20:45,True
+394,2025-07-25,7000,800000,GHI LLC,Office Supplies,user03,11:15,False
+395,2025-07-03,5000,200000,XYZ Ltd,Consulting Fees,user05,16:00,False
+396,2025-07-18,4000,500000,JKL Co,Office Supplies,user04,11:30,False
+397,2025-07-22,5000,200000,DEF Inc,Consulting Fees,user02,09:30,False
+398,2025-07-08,6000,200000,ABC Corp,Marketing Expense,user02,15:00,False
+399,2025-07-12,6000,100000,XYZ Ltd,Equipment Purchase,user03,10:15,False
+400,2025-07-09,4000,500000,JKL Co,Marketing Expense,user03,12:15,False
+401,2025-07-20,5000,500000,XYZ Ltd,Marketing Expense,user02,17:45,False
+402,2025-07-02,6000,800000,JKL Co,Marketing Expense,user05,18:45,False
+403,2025-07-27,4000,50000,JKL Co,Office Supplies,user01,20:15,True
+404,2025-07-05,7000,800000,JKL Co,Consulting Fees,user03,16:00,False
+405,2025-07-21,6000,2000000,DEF Inc,Marketing Expense,user01,13:00,False
+406,2025-07-06,7000,100000,DEF Inc,Equipment Purchase,user04,13:30,False
+407,2025-07-16,4000,50000,XYZ Ltd,Equipment Purchase,user04,11:15,False
+408,2025-07-11,7000,300000,XYZ Ltd,Travel Expenses,user04,15:30,False
+409,2025-07-09,6000,500000,DEF Inc,Consulting Fees,user03,14:30,False
+410,2025-07-19,6000,300000,JKL Co,Consulting Fees,user03,15:00,False
+411,2025-07-04,5000,-50000,GHI LLC,Refund,user05,15:30,False
+412,2025-07-06,4000,1200000,ABC Corp,Consulting Fees,user01,09:45,False
+413,2025-07-28,7000,300000,XYZ Ltd,Marketing Expense,user03,18:45,False
+414,2025-07-15,6000,-1000000,XYZ Ltd,Refund,user02,13:15,False
+415,2025-07-17,7000,300000,GHI LLC,Marketing Expense,user02,15:15,True
+416,2025-07-19,4000,300000,GHI LLC,Office Supplies,user03,16:15,False
+417,2025-07-15,5000,300000,JKL Co,Consulting Fees,user05,18:45,False
+418,2025-07-26,6000,50000,GHI LLC,Office Supplies,user03,10:00,False
+419,2025-07-12,7000,1000000,DEF Inc,Equipment Purchase,user05,12:15,False
+420,2025-07-26,7000,50000,XYZ Ltd,Office Supplies,user05,13:45,False
+421,2025-07-19,7000,-800000,DEF Inc,Refund,user03,11:00,False
+422,2025-07-20,5000,2000000,DEF Inc,Marketing Expense,user01,08:45,False
+423,2025-07-15,7000,200000,JKL Co,Office Supplies,user05,08:15,False
+424,2025-07-14,6000,1000000,JKL Co,Marketing Expense,user04,13:00,False
+425,2025-07-30,4000,50000,GHI LLC,Consulting Fees,user05,18:30,False
+426,2025-07-04,6000,-1000000,XYZ Ltd,Refund,user03,20:30,False
+427,2025-07-03,7000,500000,JKL Co,Marketing Expense,user02,08:15,False
+428,2025-07-18,6000,1200000,GHI LLC,Equipment Purchase,user01,15:15,False
+429,2025-07-05,5000,300000,DEF Inc,Consulting Fees,user05,14:15,False
+430,2025-07-12,7000,200000,JKL Co,Consulting Fees,user05,09:00,False
+431,2025-07-08,7000,-500000,JKL Co,Refund,user03,09:45,False
+432,2025-07-01,6000,300000,DEF Inc,Office Supplies,user03,12:00,False
+433,2025-07-17,4000,-500000,JKL Co,Refund,user01,16:30,True
+434,2025-07-15,5000,200000,ABC Corp,Equipment Purchase,user04,15:15,False
+435,2025-07-23,7000,300000,XYZ Ltd,Consulting Fees,user05,10:15,False
+436,2025-07-17,4000,50000,XYZ Ltd,Marketing Expense,user02,12:15,True
+437,2025-07-28,7000,1500000,XYZ Ltd,Consulting Fees,user01,19:15,False
+438,2025-07-14,7000,500000,ABC Corp,Marketing Expense,user04,12:45,False
+439,2025-07-11,6000,500000,GHI LLC,Consulting Fees,user02,16:15,False
+440,2025-07-12,5000,-300000,GHI LLC,Refund,user05,10:30,False
+441,2025-07-01,6000,200000,DEF Inc,Marketing Expense,user05,15:45,False
+442,2025-07-22,5000,300000,DEF Inc,Consulting Fees,user05,19:45,False
+443,2025-07-29,6000,200000,DEF Inc,Consulting Fees,user05,15:30,False
+444,2025-07-09,7000,800000,DEF Inc,Equipment Purchase,user02,12:15,False
+445,2025-07-28,6000,200000,DEF Inc,Marketing Expense,user04,10:00,False
+446,2025-07-05,7000,500000,DEF Inc,Travel Expenses,user01,12:30,False
+447,2025-07-27,6000,200000,ABC Corp,Office Supplies,user02,17:15,True
+448,2025-07-04,6000,300000,GHI LLC,Equipment Purchase,user03,16:00,False
+449,2025-07-10,6000,100000,JKL Co,Marketing Expense,user02,16:15,False
+450,2025-07-08,5000,100000,XYZ Ltd,Office Supplies,user03,15:30,False
+451,2025-07-08,5000,500000,ABC Corp,Consulting Fees,user01,10:00,False
+452,2025-07-06,4000,2000000,XYZ Ltd,Travel Expenses,user01,08:30,False
+453,2025-07-15,7000,100000,GHI LLC,Travel Expenses,user01,08:00,False
+454,2025-07-17,6000,-1000000,DEF Inc,Refund,user02,08:30,True
+455,2025-07-23,5000,50000,JKL Co,Equipment Purchase,user01,09:15,False
+456,2025-07-21,5000,100000,ABC Corp,Travel Expenses,user01,15:45,False
+457,2025-07-19,5000,1000000,DEF Inc,Travel Expenses,user04,14:30,False
+458,2025-07-06,4000,2000000,DEF Inc,Marketing Expense,user01,13:30,False
+459,2025-07-07,7000,300000,XYZ Ltd,Equipment Purchase,user03,10:45,False
+460,2025-07-10,5000,-300000,ABC Corp,Refund,user05,11:30,False
+461,2025-07-15,7000,100000,DEF Inc,Equipment Purchase,user03,20:00,False
+462,2025-07-20,6000,50000,DEF Inc,Equipment Purchase,user02,14:30,False
+463,2025-07-04,5000,800000,JKL Co,Consulting Fees,user05,20:15,False
+464,2025-07-25,6000,1000000,ABC Corp,Travel Expenses,user04,08:00,False
+465,2025-07-05,5000,800000,XYZ Ltd,Office Supplies,user04,18:30,False
+466,2025-07-01,4000,200000,DEF Inc,Consulting Fees,user04,11:15,False
+467,2025-07-02,6000,100000,DEF Inc,Travel Expenses,user04,17:00,False
+468,2025-07-27,4000,500000,DEF Inc,Equipment Purchase,user03,17:00,True
+469,2025-07-22,4000,800000,ABC Corp,Consulting Fees,user03,13:00,False
+470,2025-07-15,7000,200000,JKL Co,Consulting Fees,user04,11:00,False
+471,2025-07-24,6000,800000,DEF Inc,Office Supplies,user03,11:45,False
+472,2025-07-15,5000,100000,GHI LLC,Consulting Fees,user05,20:45,False
+473,2025-07-05,6000,300000,GHI LLC,Equipment Purchase,user02,20:30,False
+474,2025-07-04,5000,300000,XYZ Ltd,Marketing Expense,user05,19:00,False
+475,2025-07-02,7000,1000000,JKL Co,Office Supplies,user05,18:30,False
+476,2025-07-19,4000,50000,ABC Corp,Marketing Expense,user03,10:45,False
+477,2025-07-04,5000,500000,XYZ Ltd,Consulting Fees,user05,17:30,False
+478,2025-07-27,7000,1000000,ABC Corp,Marketing Expense,user03,12:45,True
+479,2025-07-11,7000,800000,ABC Corp,Marketing Expense,user02,17:45,False
+480,2025-07-06,7000,300000,XYZ Ltd,Office Supplies,user05,13:45,False
+481,2025-07-23,4000,300000,JKL Co,Travel Expenses,user05,17:15,False
+482,2025-07-11,4000,-800000,GHI LLC,Refund,user04,19:15,False
+483,2025-07-13,5000,1000000,JKL Co,Office Supplies,user03,15:15,False
+484,2025-07-18,4000,1500000,JKL Co,Equipment Purchase,user01,16:00,False
+485,2025-07-15,4000,50000,DEF Inc,Travel Expenses,user01,15:45,False
+486,2025-07-11,7000,100000,DEF Inc,Consulting Fees,user04,19:45,False
+487,2025-07-04,7000,300000,ABC Corp,Travel Expenses,user04,11:00,False
+488,2025-07-24,6000,100000,ABC Corp,Equipment Purchase,user05,12:45,False
+489,2025-07-10,5000,500000,XYZ Ltd,Travel Expenses,user02,08:45,False
+490,2025-07-26,7000,200000,JKL Co,Travel Expenses,user01,16:15,False
+491,2025-07-19,5000,1000000,GHI LLC,Consulting Fees,user04,20:15,False
+492,2025-07-08,5000,-100000,ABC Corp,Refund,user03,16:15,False
+493,2025-07-11,4000,300000,XYZ Ltd,Marketing Expense,user01,14:00,False
+494,2025-07-14,4000,50000,GHI LLC,Office Supplies,user02,12:00,False
+495,2025-07-26,4000,800000,XYZ Ltd,Equipment Purchase,user05,11:15,False
+496,2025-07-23,5000,1200000,ABC Corp,Marketing Expense,user01,16:00,False
+497,2025-07-22,5000,-500000,JKL Co,Refund,user02,14:30,False
+498,2025-07-08,6000,500000,XYZ Ltd,Marketing Expense,user03,12:30,False
+499,2025-07-09,5000,100000,GHI LLC,Equipment Purchase,user03,12:00,False
+500,2025-07-10,5000,200000,GHI LLC,Office Supplies,user03,11:00,False
