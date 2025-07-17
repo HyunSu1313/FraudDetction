@@ -27,7 +27,9 @@ setup(
         "pandas>=2.0",
         "scikit-learn>=1.7",
         "seaborn>=0.13",
-        "streamlit>=1.46",
+        "streamlit>=1.46", 
+        "matplotlib>=3.0",
+        "numpy>=2.3.1",
         "holidays>=0.76",
     ],
     extras_require={                
