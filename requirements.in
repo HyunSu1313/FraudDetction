@@ -1,3 +1,7 @@
 pandas
 scikit-learn
 streamlit
+numpy
+seaborn
+matplotlib
+holidays
