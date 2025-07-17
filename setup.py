@@ -10,7 +10,7 @@ setup(
     long_description=long_description,    
     long_description_content_type="text/markdown",
     author="HyunSu",                         
-    author_email="your.email@example.com",   
+    author_email="mosjeong1@gmail.com",   
     url="https://github.com/HyunSu/FraudDetectionLedger", 
 
     package_dir={"": "src"},                                
