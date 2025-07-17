@@ -43,4 +43,6 @@ jobs:
 
       - name: Use secret KEY in the workflow
         run: |
-          echo "Using secret KEY: ${{ secrets.KEY }}"
+          aws configure set aws_access_key_id ${{ secrets.KEY }}
+          aws configure set aws_secret_access_key ${{ secrets.KEY }}
+
