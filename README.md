@@ -20,7 +20,7 @@
 - src/: 패키지와 모듈 코드, fraud_detection_ledger 패키지가 포함됩니다.
   
 ## 사용 기술
-- Python: pandas, scikit-learn, PyOD 등 데이터 분석 및 머신러닝 라이브러리
+- Python: pandas, scikit-learn 등 데이터 분석 및 머신러닝 라이브러리
 -  Jupyter Notebook: 데이터 분석 및 모델링을 위한 코드 실행 환경
 - Streamlit: 대시보드 웹 애플리케이션
 Matplotlib, Seaborn: 데이터 시각화
