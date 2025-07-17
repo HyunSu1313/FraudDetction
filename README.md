@@ -23,7 +23,7 @@ reports/: 분석 및 결과 보고서를 저장하는 폴더입니다.
 
 ## 사용 기술
 - Python: pandas, scikit-learn, PyOD 등 데이터 분석 및 머신러닝 라이브러리
-- - Jupyter Notebook: 데이터 분석 및 모델링을 위한 코드 실행 환경
+-  Jupyter Notebook: 데이터 분석 및 모델링을 위한 코드 실행 환경
 - Streamlit: 대시보드 웹 애플리케이션
 Matplotlib, Seaborn: 데이터 시각화
 
