@@ -8,8 +8,7 @@
 - Streamlit 대시보드로 결과 시각화
 
 ## 폴더 구조
-- data/: 분석에 사용되는 fake_journal_entries_500.csv 파일이 포함됩니다.
-이 파일은 가상의 ERP 회계 전표 데이터로, 거래 금액, 시간, 사용자 정보 등이 포함되어 있습니다.
+- data/: 분석에 사용되는 fake_journal_entries_500.csv 파일이 포함됩니다. 이 파일은 가상의 ERP 회계 전표 데이터로, 거래 금액, 시간, 사용자 정보 등이 포함되어 있습니다.
 - notebooks/: 데이터 분석 및 모델링을 위한 Jupyter Notebook 파일들이 포함됩니다.
 - streamlit_app/: Streamlit 대시보드를 위한 Python 코드(app.py)가 포함됩니다.
 - src/: 패키지와 모듈 코드, fraud_detection_ledger 패키지가 포함됩니다.
