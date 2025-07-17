@@ -1,6 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = s3://your-bucket-name/path/to/data
-    access_key_id = jhs1313
-    secret_access_key = jhs1377
+    url = ../local_storage
