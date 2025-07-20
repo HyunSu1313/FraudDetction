@@ -1,7 +1,8 @@
 pandas
 scikit-learn
 streamlit
-numpy
-seaborn
 matplotlib
+seaborn
 holidays
+numpy
+python-dateutil
