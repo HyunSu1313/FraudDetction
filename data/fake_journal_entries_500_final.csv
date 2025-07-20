@@ -1,0 +1,501 @@
+﻿date,time,amount,entered_by,vendor,description,is_holiday
+2025-04-13,20:07,439262,user05,Hyundai Inc,Outsourcing,0
+2025-12-15,00:47,518268,user05,SK Ltd,Project Cost,0
+2025-09-28,08:15,694148,user01,Hyundai Inc,Travel Expense,0
+2025-04-17,07:08,537828,user04,SK Ltd,Travel Expense,0
+2025-03-13,23:06,-69213,user05,SK Ltd,Travel Expense,0
+2025-07-08,21:47,884162,user01,Hyundai Inc,Office Supplies,0
+2025-01-21,17:05,315459,user04,LG Corp,Project Cost,0
+2025-04-13,18:27,1133395,user02,Samsung Ltd,Outsourcing,0
+2025-05-02,01:01,706054,user01,Kakao Corp,Consulting Fee,0
+2025-08-03,02:13,521291,user03,SK Ltd,Consulting Fee,0
+2025-11-27,07:32,631798,user01,Kakao Corp,Travel Expense,0
+2025-03-29,19:01,467450,user01,Hyundai Inc,Project Cost,0
+2025-04-10,17:12,354070,user04,Kakao Corp,Office Supplies,0
+2025-12-26,22:41,562279,user02,Hyundai Inc,Project Cost,0
+2025-06-01,22:34,765497,user03,Kakao Corp,Project Cost,0
+2025-05-11,13:14,360641,user05,Samsung Ltd,Office Supplies,0
+2025-05-30,14:37,313328,user05,Samsung Ltd,Travel Expense,0
+2025-11-05,08:51,393353,user01,Samsung Ltd,Project Cost,0
+2025-09-15,00:48,785603,user04,Samsung Ltd,Consulting Fee,0
+2025-12-10,05:44,935765,user04,Samsung Ltd,Office Supplies,0
+2025-10-21,13:21,608604,user05,Samsung Ltd,Outsourcing,0
+2025-07-11,08:09,674394,user03,Hyundai Inc,Travel Expense,0
+2025-10-04,06:48,311089,user02,SK Ltd,Office Supplies,0
+2025-06-10,10:06,763026,user03,Kakao Corp,Outsourcing,0
+2025-11-10,02:24,665521,user02,Samsung Ltd,Outsourcing,0
+2025-01-22,03:22,286961,user05,Hyundai Inc,Project Cost,0
+2025-09-10,11:38,-36301,user02,Hyundai Inc,Project Cost,0
+2025-08-24,08:51,133828,user04,Hyundai Inc,Project Cost,0
+2025-12-11,01:46,299239,user01,SK Ltd,Office Supplies,0
+2025-02-18,14:34,848581,user01,Kakao Corp,Office Supplies,0
+2025-02-28,03:59,965857,user05,SK Ltd,Travel Expense,0
+2025-06-19,12:05,368144,user04,LG Corp,Project Cost,0
+2025-07-07,17:18,377625,user03,Hyundai Inc,Outsourcing,0
+2025-09-28,20:39,578486,user04,LG Corp,Consulting Fee,0
+2025-07-09,11:36,9537165,user01,Samsung Ltd,Travel Expense,0
+2025-06-24,06:45,779280,user01,Samsung Ltd,Office Supplies,0
+2025-02-20,02:02,343043,user04,SK Ltd,Travel Expense,0
+2025-12-30,21:14,784742,user04,Kakao Corp,Travel Expense,0
+2025-02-24,09:05,428232,user01,LG Corp,Travel Expense,0
+2025-09-01,07:55,756192,user03,Kakao Corp,Travel Expense,0
+2025-11-16,03:24,418687,user05,SK Ltd,Consulting Fee,0
+2025-05-11,08:29,316071,user05,Samsung Ltd,Project Cost,0
+2025-11-03,20:53,4618137,user04,Kakao Corp,Outsourcing,0
+2025-05-15,11:10,819568,user05,Kakao Corp,Travel Expense,0
+2025-01-21,11:22,-37613,user01,Samsung Ltd,Travel Expense,0
+2025-11-25,06:42,365967,user01,LG Corp,Travel Expense,0
+2025-06-16,08:44,861476,user04,Samsung Ltd,Project Cost,0
+2025-10-01,21:41,5010087,user04,Kakao Corp,Office Supplies,0
+2025-03-30,02:38,731203,user04,LG Corp,Office Supplies,0
+2025-11-12,20:10,700116,user03,LG Corp,Consulting Fee,0
+2025-01-14,17:46,290256,user05,Samsung Ltd,Office Supplies,0
+2025-08-30,07:10,497354,user04,Kakao Corp,Travel Expense,0
+2025-09-22,14:24,-127005,user02,SK Ltd,Travel Expense,0
+2025-12-12,08:59,1031129,user02,Kakao Corp,Travel Expense,0
+2025-02-22,20:44,407272,user01,Hyundai Inc,Consulting Fee,0
+2025-12-06,17:14,741143,user05,SK Ltd,Travel Expense,0
+2025-04-02,21:20,684152,user04,LG Corp,Office Supplies,0
+2025-09-21,01:14,907364,user02,SK Ltd,Project Cost,0
+2025-02-04,01:51,370008,user05,LG Corp,Project Cost,0
+2025-07-25,10:25,561146,user01,LG Corp,Outsourcing,0
+2025-03-22,08:04,667732,user03,SK Ltd,Office Supplies,0
+2025-02-19,06:58,761762,user05,LG Corp,Travel Expense,0
+2025-12-26,18:56,846306,user05,LG Corp,Project Cost,0
+2025-01-02,22:20,356785,user03,Hyundai Inc,Office Supplies,0
+2025-02-23,06:41,300731,user05,Kakao Corp,Project Cost,0
+2025-04-16,15:25,908033,user01,Kakao Corp,Travel Expense,0
+2025-09-17,20:29,-111122,user01,Hyundai Inc,Project Cost,0
+2025-11-06,04:16,971009,user03,SK Ltd,Outsourcing,0
+2025-07-10,04:15,409302,user04,Samsung Ltd,Outsourcing,0
+2025-08-06,23:35,4971981,user02,Samsung Ltd,Project Cost,0
+2025-02-13,17:16,295297,user04,Samsung Ltd,Office Supplies,0
+2025-06-11,23:37,485541,user05,Hyundai Inc,Office Supplies,0
+2025-07-21,13:57,881341,user02,Hyundai Inc,Office Supplies,0
+2025-09-27,18:25,731258,user03,LG Corp,Project Cost,0
+2025-12-17,11:14,647805,user03,Samsung Ltd,Office Supplies,0
+2025-10-31,04:32,526661,user02,SK Ltd,Travel Expense,0
+2025-09-28,15:05,66317,user01,SK Ltd,Outsourcing,0
+2025-08-03,01:55,246758,user02,Samsung Ltd,Travel Expense,0
+2025-09-09,03:09,397039,user05,Samsung Ltd,Office Supplies,1
+2025-07-09,20:10,637302,user01,Samsung Ltd,Travel Expense,0
+2025-10-23,21:27,520895,user03,Hyundai Inc,Office Supplies,0
+2025-08-01,19:04,795051,user02,Hyundai Inc,Project Cost,0
+2025-07-27,12:24,642088,user04,Hyundai Inc,Travel Expense,0
+2025-08-25,19:29,516305,user04,Kakao Corp,Project Cost,0
+2025-12-04,16:16,1182728,user05,SK Ltd,Project Cost,0
+2025-02-22,17:55,621868,user04,SK Ltd,Consulting Fee,0
+2025-10-07,00:43,370417,user02,LG Corp,Office Supplies,0
+2025-08-05,23:07,1057990,user02,Hyundai Inc,Outsourcing,0
+2025-09-09,21:56,860123,user04,Kakao Corp,Office Supplies,1
+2025-07-07,17:48,1044826,user02,Kakao Corp,Outsourcing,0
+2025-02-10,08:49,466720,user05,SK Ltd,Office Supplies,0
+2025-06-06,20:21,792892,user01,Hyundai Inc,Project Cost,1
+2025-01-15,03:18,64145,user05,LG Corp,Travel Expense,0
+2025-10-28,13:10,6443778,user05,Hyundai Inc,Travel Expense,0
+2025-03-06,14:00,452682,user02,Samsung Ltd,Consulting Fee,0
+2025-12-11,23:56,93482,user01,Hyundai Inc,Outsourcing,0
+2025-11-23,23:16,809780,user02,Samsung Ltd,Outsourcing,0
+2025-01-09,16:48,-43039,user03,Samsung Ltd,Outsourcing,0
+2025-12-10,05:32,-73811,user02,LG Corp,Project Cost,0
+2025-05-09,03:55,608742,user02,SK Ltd,Outsourcing,0
+2025-05-16,20:19,671404,user02,Hyundai Inc,Travel Expense,0
+2025-03-04,20:32,791157,user01,Samsung Ltd,Project Cost,0
+2025-05-19,19:12,722588,user02,Hyundai Inc,Office Supplies,0
+2025-03-22,04:23,9220521,user01,SK Ltd,Outsourcing,0
+2025-06-12,05:34,710072,user04,SK Ltd,Outsourcing,0
+2025-10-16,16:58,460310,user03,Kakao Corp,Office Supplies,0
+2025-09-18,00:38,477916,user01,SK Ltd,Outsourcing,0
+2025-08-19,10:31,415333,user04,LG Corp,Office Supplies,0
+2025-02-10,00:07,588643,user01,Samsung Ltd,Project Cost,0
+2025-01-28,11:56,170796,user01,Kakao Corp,Travel Expense,0
+2025-05-15,09:15,602276,user03,LG Corp,Office Supplies,0
+2025-07-20,01:15,474075,user05,Hyundai Inc,Consulting Fee,0
+2025-11-24,18:05,582690,user05,Samsung Ltd,Office Supplies,0
+2025-09-25,02:46,583616,user01,SK Ltd,Outsourcing,0
+2025-02-02,15:52,-235679,user02,Samsung Ltd,Project Cost,0
+2025-02-17,02:48,229611,user04,Hyundai Inc,Project Cost,0
+2025-03-03,17:49,467411,user02,Kakao Corp,Office Supplies,0
+2025-08-04,04:08,483354,user02,Kakao Corp,Travel Expense,0
+2025-10-20,21:30,577816,user01,Kakao Corp,Consulting Fee,0
+2025-04-09,17:10,590704,user01,SK Ltd,Project Cost,0
+2025-06-21,08:33,954869,user01,LG Corp,Outsourcing,0
+2025-12-26,19:27,593737,user01,LG Corp,Outsourcing,0
+2025-08-02,06:59,406092,user05,Samsung Ltd,Travel Expense,0
+2025-02-04,17:48,20262,user01,SK Ltd,Project Cost,0
+2025-08-15,23:44,89422,user05,Kakao Corp,Office Supplies,1
+2025-04-11,06:45,660647,user05,Kakao Corp,Outsourcing,0
+2025-05-11,09:25,818134,user01,Hyundai Inc,Travel Expense,0
+2025-09-14,21:41,962411,user03,Hyundai Inc,Project Cost,0
+2025-01-05,11:28,251632,user04,Kakao Corp,Project Cost,0
+2025-08-06,16:28,408840,user02,Kakao Corp,Project Cost,0
+2025-09-12,03:15,572700,user05,SK Ltd,Project Cost,0
+2025-12-25,07:04,1114219,user04,LG Corp,Project Cost,1
+2025-10-10,10:01,534458,user03,Hyundai Inc,Outsourcing,0
+2025-07-26,18:35,965378,user02,LG Corp,Travel Expense,0
+2025-01-15,07:37,550991,user02,SK Ltd,Project Cost,0
+2025-12-12,07:00,5959076,user05,Kakao Corp,Consulting Fee,0
+2025-02-11,02:45,807973,user01,LG Corp,Consulting Fee,0
+2025-06-28,20:03,549826,user03,Kakao Corp,Travel Expense,0
+2025-03-04,07:04,193885,user05,Kakao Corp,Office Supplies,0
+2025-12-18,01:55,419271,user03,Samsung Ltd,Office Supplies,0
+2025-08-19,10:04,946713,user01,LG Corp,Office Supplies,0
+2025-08-29,16:15,763347,user01,LG Corp,Consulting Fee,0
+2025-02-21,08:42,369904,user05,Kakao Corp,Office Supplies,0
+2025-04-06,15:13,397307,user01,SK Ltd,Outsourcing,0
+2025-08-10,17:08,-19261,user04,Samsung Ltd,Project Cost,0
+2025-08-19,23:59,933301,user02,Kakao Corp,Consulting Fee,0
+2025-08-25,18:36,765819,user05,Hyundai Inc,Travel Expense,0
+2025-05-23,15:15,458876,user03,Hyundai Inc,Travel Expense,0
+2025-06-20,15:51,560040,user04,Samsung Ltd,Project Cost,0
+2025-01-29,13:12,-151259,user05,SK Ltd,Consulting Fee,0
+2025-02-05,03:06,353985,user01,Kakao Corp,Office Supplies,0
+2025-01-13,21:27,900333,user01,LG Corp,Office Supplies,0
+2025-06-09,11:27,794464,user01,Samsung Ltd,Outsourcing,0
+2025-11-23,13:29,599210,user01,SK Ltd,Outsourcing,0
+2025-07-06,23:03,495584,user03,LG Corp,Office Supplies,0
+2025-08-31,21:41,738921,user04,Hyundai Inc,Travel Expense,0
+2025-03-27,20:06,415584,user02,Hyundai Inc,Travel Expense,0
+2025-10-11,01:25,592,user03,LG Corp,Outsourcing,0
+2025-03-07,23:21,498140,user03,Samsung Ltd,Project Cost,0
+2025-06-19,03:15,620935,user02,Hyundai Inc,Office Supplies,0
+2025-02-14,06:12,836803,user02,Kakao Corp,Outsourcing,0
+2025-03-03,17:28,67641,user01,LG Corp,Outsourcing,0
+2025-05-14,04:27,463126,user03,LG Corp,Office Supplies,0
+2025-10-11,05:17,477408,user05,Hyundai Inc,Office Supplies,0
+2025-01-28,14:15,169624,user02,Samsung Ltd,Travel Expense,0
+2025-04-18,02:28,646301,user02,Kakao Corp,Project Cost,0
+2025-02-13,17:06,724210,user04,Samsung Ltd,Project Cost,0
+2025-12-06,01:41,412792,user05,SK Ltd,Office Supplies,0
+2025-10-13,17:53,1116527,user05,SK Ltd,Consulting Fee,0
+2025-11-27,00:05,404191,user02,Hyundai Inc,Outsourcing,0
+2025-05-08,07:10,365994,user01,Hyundai Inc,Outsourcing,0
+2025-12-14,13:31,357298,user04,Hyundai Inc,Office Supplies,0
+2025-08-19,15:13,255350,user05,SK Ltd,Consulting Fee,0
+2025-07-09,12:57,332292,user02,Samsung Ltd,Travel Expense,0
+2025-08-13,01:10,69773,user05,Samsung Ltd,Office Supplies,0
+2025-10-10,12:00,442540,user04,Hyundai Inc,Office Supplies,0
+2025-05-01,12:16,517242,user04,Kakao Corp,Outsourcing,0
+2025-04-26,14:18,-184840,user03,Samsung Ltd,Office Supplies,0
+2025-08-21,13:44,469415,user02,SK Ltd,Office Supplies,0
+2025-09-16,23:50,512640,user04,LG Corp,Office Supplies,0
+2025-12-25,17:42,654376,user03,LG Corp,Outsourcing,1
+2025-07-17,22:31,861390,user03,LG Corp,Travel Expense,0
+2025-05-17,04:12,755406,user05,Kakao Corp,Travel Expense,0
+2025-11-14,09:13,313890,user05,Hyundai Inc,Office Supplies,0
+2025-06-14,01:37,279076,user03,SK Ltd,Outsourcing,0
+2025-08-13,23:34,673851,user05,Kakao Corp,Travel Expense,0
+2025-11-03,01:47,335816,user04,SK Ltd,Travel Expense,0
+2025-08-22,10:03,131583,user01,SK Ltd,Travel Expense,0
+2025-06-21,01:37,1212242,user04,Hyundai Inc,Outsourcing,0
+2025-06-01,15:32,406782,user03,LG Corp,Outsourcing,0
+2025-11-11,16:10,312042,user03,Hyundai Inc,Office Supplies,0
+2025-06-09,01:32,-157639,user04,Kakao Corp,Project Cost,0
+2025-04-06,02:54,755420,user05,Kakao Corp,Travel Expense,0
+2025-08-21,05:04,203619,user05,Kakao Corp,Project Cost,0
+2025-06-29,19:04,508586,user03,Hyundai Inc,Outsourcing,0
+2025-04-23,21:55,790586,user02,SK Ltd,Outsourcing,0
+2025-11-14,07:25,208319,user05,SK Ltd,Outsourcing,0
+2025-02-21,03:56,523844,user04,Samsung Ltd,Project Cost,0
+2025-09-25,18:15,957136,user05,Kakao Corp,Outsourcing,0
+2025-10-22,18:38,-237024,user04,SK Ltd,Office Supplies,0
+2025-04-23,01:39,256848,user03,Samsung Ltd,Outsourcing,0
+2025-04-11,02:26,228637,user05,SK Ltd,Consulting Fee,0
+2025-04-23,21:37,443928,user04,Kakao Corp,Project Cost,0
+2025-03-22,18:33,485662,user03,LG Corp,Consulting Fee,0
+2025-07-06,10:59,181621,user02,Kakao Corp,Outsourcing,0
+2025-04-23,08:13,303687,user04,Hyundai Inc,Office Supplies,0
+2025-01-02,21:45,268032,user02,SK Ltd,Travel Expense,0
+2025-05-10,10:15,9206155,user02,SK Ltd,Outsourcing,0
+2025-08-08,08:25,565466,user01,Hyundai Inc,Office Supplies,0
+2025-02-23,04:42,773169,user05,Hyundai Inc,Project Cost,0
+2025-12-09,20:19,816599,user04,LG Corp,Consulting Fee,0
+2025-08-12,14:20,696090,user02,SK Ltd,Consulting Fee,0
+2025-08-13,02:00,237807,user01,SK Ltd,Consulting Fee,0
+2025-05-06,14:39,499011,user03,LG Corp,Project Cost,0
+2025-05-10,18:06,1212298,user04,Samsung Ltd,Office Supplies,0
+2025-02-22,02:34,804359,user02,LG Corp,Project Cost,0
+2025-06-21,06:32,367848,user05,Kakao Corp,Consulting Fee,0
+2025-08-06,08:08,974611,user01,SK Ltd,Outsourcing,0
+2025-06-09,11:56,383579,user02,Hyundai Inc,Travel Expense,0
+2025-07-17,02:56,299479,user05,Kakao Corp,Project Cost,0
+2025-09-04,07:23,918719,user02,SK Ltd,Project Cost,0
+2025-11-20,09:10,107105,user04,LG Corp,Office Supplies,0
+2025-07-22,14:53,-74133,user04,Kakao Corp,Office Supplies,0
+2025-07-03,17:45,782385,user04,SK Ltd,Project Cost,0
+2025-05-03,09:39,508307,user01,Samsung Ltd,Consulting Fee,0
+2025-09-12,20:33,538209,user04,Samsung Ltd,Travel Expense,0
+2025-10-21,00:42,391573,user05,Hyundai Inc,Office Supplies,0
+2025-10-07,17:19,428451,user02,SK Ltd,Consulting Fee,0
+2025-11-21,21:06,362567,user03,Samsung Ltd,Outsourcing,0
+2025-04-08,04:16,312202,user05,LG Corp,Office Supplies,0
+2025-07-17,03:56,385426,user05,SK Ltd,Consulting Fee,0
+2025-08-28,03:47,375964,user04,LG Corp,Consulting Fee,0
+2025-05-24,17:09,251424,user01,LG Corp,Travel Expense,0
+2025-04-07,08:18,336449,user02,Samsung Ltd,Travel Expense,0
+2025-07-20,19:13,-250827,user01,SK Ltd,Outsourcing,0
+2025-05-04,22:21,705392,user02,Kakao Corp,Consulting Fee,0
+2025-07-06,06:43,617075,user02,Samsung Ltd,Consulting Fee,0
+2025-11-22,20:54,474527,user01,Samsung Ltd,Travel Expense,0
+2025-12-15,08:32,571197,user05,SK Ltd,Office Supplies,0
+2025-09-16,15:16,582073,user02,SK Ltd,Office Supplies,0
+2025-05-28,01:05,282799,user01,LG Corp,Project Cost,0
+2025-09-09,20:27,340225,user02,SK Ltd,Travel Expense,1
+2025-12-12,08:02,658494,user03,LG Corp,Project Cost,0
+2025-05-27,00:21,562251,user05,Samsung Ltd,Travel Expense,0
+2025-05-28,04:40,1112996,user04,Hyundai Inc,Outsourcing,0
+2025-12-18,08:10,985883,user02,Kakao Corp,Consulting Fee,0
+2025-07-18,23:28,779903,user03,Samsung Ltd,Outsourcing,0
+2025-11-04,17:45,271479,user04,SK Ltd,Travel Expense,0
+2025-05-08,13:35,330632,user04,Kakao Corp,Consulting Fee,0
+2025-02-08,00:07,199385,user02,Hyundai Inc,Office Supplies,0
+2025-12-04,02:56,583927,user01,Hyundai Inc,Office Supplies,0
+2025-12-26,22:57,-322286,user02,LG Corp,Project Cost,0
+2025-05-09,04:34,362414,user03,Kakao Corp,Travel Expense,0
+2025-09-24,01:53,407985,user04,LG Corp,Travel Expense,0
+2025-05-31,11:37,42712,user02,Samsung Ltd,Office Supplies,0
+2025-10-25,17:09,739320,user01,Kakao Corp,Outsourcing,0
+2025-04-09,13:08,158257,user02,Samsung Ltd,Consulting Fee,0
+2025-09-20,01:19,580322,user05,LG Corp,Outsourcing,0
+2025-09-09,11:57,1335133,user01,Kakao Corp,Outsourcing,1
+2025-05-24,01:57,16698,user03,LG Corp,Office Supplies,0
+2025-12-12,11:13,455434,user04,Kakao Corp,Office Supplies,0
+2025-04-22,21:15,377761,user02,LG Corp,Office Supplies,0
+2025-03-01,21:06,319409,user01,Hyundai Inc,Project Cost,1
+2025-01-02,11:49,728075,user05,LG Corp,Outsourcing,0
+2025-10-31,17:56,831898,user01,Hyundai Inc,Travel Expense,0
+2025-09-11,13:39,731491,user05,LG Corp,Consulting Fee,0
+2025-05-20,23:09,282998,user03,Kakao Corp,Project Cost,0
+2025-02-06,07:55,1230154,user04,Kakao Corp,Travel Expense,0
+2025-06-09,05:51,-31072,user03,Kakao Corp,Outsourcing,0
+2025-01-09,05:56,190211,user02,SK Ltd,Office Supplies,0
+2025-08-21,13:01,550918,user01,Samsung Ltd,Outsourcing,0
+2025-04-09,05:47,526818,user05,Kakao Corp,Consulting Fee,0
+2025-05-27,10:50,646413,user05,Hyundai Inc,Project Cost,0
+2025-10-31,13:51,974040,user01,Kakao Corp,Project Cost,0
+2025-07-27,21:55,464044,user01,SK Ltd,Consulting Fee,0
+2025-05-11,23:51,534118,user02,Hyundai Inc,Travel Expense,0
+2025-06-01,07:17,321645,user03,SK Ltd,Travel Expense,0
+2025-02-23,05:50,676498,user05,Hyundai Inc,Project Cost,0
+2025-04-30,22:06,404456,user02,LG Corp,Project Cost,0
+2025-06-10,12:55,404282,user03,Samsung Ltd,Office Supplies,0
+2025-04-26,01:54,5042146,user02,Samsung Ltd,Travel Expense,0
+2025-03-16,15:14,810476,user05,SK Ltd,Consulting Fee,0
+2025-04-23,06:52,-162431,user01,Samsung Ltd,Travel Expense,0
+2025-04-14,14:22,608233,user01,SK Ltd,Office Supplies,0
+2025-12-06,09:52,3257949,user03,SK Ltd,Project Cost,0
+2025-09-11,07:14,784285,user04,SK Ltd,Project Cost,0
+2025-08-15,00:42,424963,user03,Samsung Ltd,Office Supplies,1
+2025-04-22,06:25,890315,user04,SK Ltd,Consulting Fee,0
+2025-04-09,10:17,297076,user02,Samsung Ltd,Project Cost,0
+2025-06-02,02:49,-169098,user02,SK Ltd,Outsourcing,0
+2025-12-15,08:22,815477,user05,Kakao Corp,Project Cost,0
+2025-12-04,20:32,246936,user04,SK Ltd,Outsourcing,0
+2025-07-13,12:43,25924,user05,Hyundai Inc,Office Supplies,0
+2025-11-06,17:21,504816,user01,SK Ltd,Office Supplies,0
+2025-06-12,00:07,428246,user04,LG Corp,Project Cost,0
+2025-07-27,08:11,746931,user03,SK Ltd,Travel Expense,0
+2025-06-18,18:16,767723,user01,Hyundai Inc,Outsourcing,0
+2025-06-10,01:06,528686,user01,Hyundai Inc,Consulting Fee,0
+2025-03-09,19:27,234555,user03,Samsung Ltd,Project Cost,0
+2025-10-16,11:46,586082,user01,Kakao Corp,Consulting Fee,0
+2025-10-04,10:27,549558,user04,SK Ltd,Project Cost,0
+2025-10-31,19:32,670681,user05,Samsung Ltd,Travel Expense,0
+2025-05-15,03:24,237557,user01,Kakao Corp,Travel Expense,0
+2025-07-14,18:12,379888,user04,SK Ltd,Travel Expense,0
+2025-05-08,08:02,652813,user02,LG Corp,Travel Expense,0
+2025-02-02,22:27,6214279,user04,SK Ltd,Office Supplies,0
+2025-06-25,00:33,789776,user05,Hyundai Inc,Office Supplies,0
+2025-01-22,17:43,2260116,user04,Hyundai Inc,Outsourcing,0
+2025-08-26,23:47,353781,user03,LG Corp,Consulting Fee,0
+2025-06-07,23:42,621146,user05,Samsung Ltd,Project Cost,0
+2025-02-07,06:23,172582,user02,Kakao Corp,Project Cost,0
+2025-08-18,13:04,254899,user03,SK Ltd,Office Supplies,0
+2025-12-31,21:58,952931,user04,Hyundai Inc,Project Cost,0
+2025-02-20,10:39,620610,user05,Samsung Ltd,Office Supplies,0
+2025-09-21,10:42,395741,user02,LG Corp,Outsourcing,0
+2025-10-10,03:46,748741,user03,Hyundai Inc,Consulting Fee,0
+2025-01-27,09:32,886092,user02,LG Corp,Outsourcing,0
+2025-08-14,09:42,366608,user04,SK Ltd,Travel Expense,0
+2025-10-04,13:20,371777,user02,Kakao Corp,Travel Expense,0
+2025-10-13,12:44,334206,user01,Hyundai Inc,Travel Expense,0
+2025-04-07,09:35,789155,user03,Hyundai Inc,Outsourcing,0
+2025-10-11,04:12,792067,user02,SK Ltd,Project Cost,0
+2025-11-13,13:42,915770,user04,Samsung Ltd,Consulting Fee,0
+2025-10-31,12:43,802580,user04,Kakao Corp,Travel Expense,0
+2025-05-27,23:57,10334,user02,Hyundai Inc,Travel Expense,0
+2025-01-04,05:39,584289,user04,Kakao Corp,Travel Expense,0
+2025-02-04,18:19,182484,user05,Hyundai Inc,Consulting Fee,0
+2025-07-11,12:35,346125,user05,Kakao Corp,Travel Expense,0
+2025-02-18,00:19,551178,user05,LG Corp,Consulting Fee,0
+2025-01-17,09:13,750669,user01,Hyundai Inc,Travel Expense,0
+2025-06-21,13:50,232746,user02,Kakao Corp,Outsourcing,0
+2025-08-08,18:38,-197415,user01,Samsung Ltd,Outsourcing,0
+2025-06-07,20:20,554159,user04,LG Corp,Consulting Fee,0
+2025-02-15,14:28,1293071,user01,LG Corp,Outsourcing,0
+2025-01-06,14:43,439146,user04,Samsung Ltd,Consulting Fee,0
+2025-04-09,06:32,514074,user04,Kakao Corp,Outsourcing,0
+2025-08-21,15:50,1034649,user03,SK Ltd,Outsourcing,0
+2025-02-06,23:10,677082,user05,Samsung Ltd,Consulting Fee,0
+2025-10-07,21:05,565058,user04,Kakao Corp,Project Cost,0
+2025-12-15,09:32,632634,user03,Samsung Ltd,Outsourcing,0
+2025-10-29,21:40,575073,user05,Samsung Ltd,Travel Expense,0
+2025-06-30,19:21,158073,user04,Hyundai Inc,Project Cost,0
+2025-04-05,02:52,97566,user04,Kakao Corp,Consulting Fee,0
+2025-04-09,07:43,1066048,user01,SK Ltd,Project Cost,0
+2025-07-07,09:14,555165,user01,Hyundai Inc,Office Supplies,0
+2025-04-26,06:09,530028,user05,Samsung Ltd,Office Supplies,0
+2025-07-10,00:02,472931,user04,Samsung Ltd,Outsourcing,0
+2025-09-10,07:30,734321,user02,Samsung Ltd,Outsourcing,0
+2025-06-10,19:54,1261607,user01,Kakao Corp,Travel Expense,0
+2025-09-13,02:29,657185,user05,Kakao Corp,Project Cost,0
+2025-11-19,13:56,323573,user04,Hyundai Inc,Office Supplies,0
+2025-05-08,20:36,459979,user04,SK Ltd,Outsourcing,0
+2025-01-18,06:45,821298,user02,Hyundai Inc,Project Cost,0
+2025-10-08,22:24,325159,user05,LG Corp,Outsourcing,0
+2025-08-11,15:25,755673,user04,Samsung Ltd,Outsourcing,0
+2025-02-23,07:09,-196221,user01,Samsung Ltd,Office Supplies,0
+2025-02-27,20:44,431036,user02,Samsung Ltd,Office Supplies,0
+2025-11-19,00:57,688442,user05,Hyundai Inc,Outsourcing,0
+2025-12-26,03:49,881037,user02,Hyundai Inc,Consulting Fee,0
+2025-06-23,13:14,254457,user01,Samsung Ltd,Outsourcing,0
+2025-10-07,05:51,49170,user05,Hyundai Inc,Outsourcing,0
+2025-04-24,22:33,421779,user02,Kakao Corp,Travel Expense,0
+2025-10-15,14:03,162374,user03,Kakao Corp,Travel Expense,0
+2025-12-08,17:15,455288,user01,Hyundai Inc,Travel Expense,0
+2025-05-31,03:29,498003,user01,Samsung Ltd,Consulting Fee,0
+2025-05-07,04:51,104256,user01,Hyundai Inc,Consulting Fee,0
+2025-06-04,14:42,6352099,user03,Hyundai Inc,Outsourcing,0
+2025-09-30,16:35,452835,user03,Hyundai Inc,Travel Expense,0
+2025-04-14,19:20,824137,user04,LG Corp,Consulting Fee,0
+2025-10-26,14:39,-53471,user02,Kakao Corp,Office Supplies,0
+2025-09-03,23:57,194842,user04,SK Ltd,Outsourcing,0
+2025-06-25,16:27,655000,user02,SK Ltd,Project Cost,0
+2025-02-08,17:28,260266,user03,LG Corp,Outsourcing,0
+2025-06-19,05:47,450639,user03,Hyundai Inc,Project Cost,0
+2025-09-04,15:28,500209,user04,LG Corp,Travel Expense,0
+2025-01-26,08:48,547476,user05,LG Corp,Project Cost,0
+2025-12-21,07:53,296730,user04,Samsung Ltd,Travel Expense,0
+2025-11-02,20:17,544785,user02,Kakao Corp,Office Supplies,0
+2025-01-13,16:31,265236,user04,SK Ltd,Project Cost,0
+2025-11-12,20:15,702284,user01,Hyundai Inc,Outsourcing,0
+2025-11-09,08:28,465546,user02,SK Ltd,Travel Expense,0
+2025-02-05,02:45,546510,user02,SK Ltd,Outsourcing,0
+2025-06-22,09:15,1270978,user05,Kakao Corp,Consulting Fee,0
+2025-01-20,08:21,167868,user03,SK Ltd,Travel Expense,0
+2025-11-17,10:57,916574,user02,SK Ltd,Project Cost,0
+2025-09-21,17:05,-297805,user03,LG Corp,Travel Expense,0
+2025-05-22,04:09,-123512,user04,Kakao Corp,Outsourcing,0
+2025-05-23,07:24,127807,user01,Samsung Ltd,Office Supplies,0
+2025-04-02,22:09,146741,user05,Hyundai Inc,Travel Expense,0
+2025-12-20,22:13,5850241,user03,SK Ltd,Project Cost,0
+2025-11-18,02:26,586952,user02,Hyundai Inc,Consulting Fee,0
+2025-10-15,13:21,423553,user03,Samsung Ltd,Office Supplies,0
+2025-08-03,17:29,455036,user02,Hyundai Inc,Consulting Fee,0
+2025-12-08,13:03,658329,user03,Samsung Ltd,Travel Expense,0
+2025-02-20,06:53,749967,user02,LG Corp,Outsourcing,0
+2025-06-02,13:24,102038,user04,SK Ltd,Outsourcing,0
+2025-07-05,18:44,391432,user02,Samsung Ltd,Project Cost,0
+2025-03-04,00:54,479123,user02,Hyundai Inc,Outsourcing,0
+2025-07-09,18:24,645594,user01,SK Ltd,Office Supplies,0
+2025-05-05,15:00,268199,user02,LG Corp,Outsourcing,1
+2025-05-30,11:19,473233,user01,SK Ltd,Project Cost,0
+2025-11-10,12:54,508995,user05,Samsung Ltd,Travel Expense,0
+2025-02-27,13:34,288658,user01,LG Corp,Travel Expense,0
+2025-12-08,23:47,281505,user04,Hyundai Inc,Outsourcing,0
+2025-11-01,17:51,529623,user01,LG Corp,Consulting Fee,0
+2025-06-29,19:57,460896,user05,LG Corp,Travel Expense,0
+2025-06-19,07:31,650143,user04,Kakao Corp,Outsourcing,0
+2025-11-22,07:17,184022,user03,LG Corp,Project Cost,0
+2025-09-28,13:31,394795,user03,LG Corp,Outsourcing,0
+2025-02-23,00:24,431235,user01,SK Ltd,Travel Expense,0
+2025-04-11,10:42,744159,user01,Hyundai Inc,Project Cost,0
+2025-09-21,21:51,217875,user05,SK Ltd,Outsourcing,0
+2025-02-22,12:46,570395,user05,SK Ltd,Office Supplies,0
+2025-03-01,05:53,575826,user02,Samsung Ltd,Project Cost,1
+2025-04-18,14:58,993919,user05,SK Ltd,Office Supplies,0
+2025-01-05,04:39,197873,user02,Kakao Corp,Consulting Fee,0
+2025-04-13,17:01,302830,user04,Kakao Corp,Project Cost,0
+2025-07-15,12:37,218793,user01,Samsung Ltd,Office Supplies,0
+2025-09-19,18:42,-933,user04,Hyundai Inc,Travel Expense,0
+2025-12-31,00:05,1029406,user05,Hyundai Inc,Travel Expense,0
+2025-12-16,20:27,127549,user04,SK Ltd,Consulting Fee,0
+2025-02-16,04:55,255108,user04,SK Ltd,Project Cost,0
+2025-12-21,14:11,894729,user04,SK Ltd,Project Cost,0
+2025-11-07,01:16,-25932,user05,Hyundai Inc,Project Cost,0
+2025-11-04,12:20,726905,user04,LG Corp,Consulting Fee,0
+2025-05-24,06:29,76092,user02,Kakao Corp,Project Cost,0
+2025-09-26,10:21,874008,user05,LG Corp,Travel Expense,0
+2025-05-04,12:17,-150963,user04,LG Corp,Office Supplies,0
+2025-04-16,13:16,-26040,user05,Hyundai Inc,Travel Expense,0
+2025-06-07,02:30,336523,user03,LG Corp,Travel Expense,0
+2025-05-27,00:47,4968462,user02,Samsung Ltd,Office Supplies,0
+2025-05-25,17:03,490712,user04,SK Ltd,Travel Expense,0
+2025-04-30,11:14,399285,user03,Samsung Ltd,Consulting Fee,0
+2025-11-15,20:04,903813,user03,Kakao Corp,Office Supplies,0
+2025-10-02,20:02,1146571,user05,SK Ltd,Travel Expense,0
+2025-04-02,00:15,701677,user03,LG Corp,Outsourcing,0
+2025-02-27,06:53,7538166,user02,Kakao Corp,Travel Expense,0
+2025-12-12,00:39,374557,user02,SK Ltd,Consulting Fee,0
+2025-08-17,04:15,113465,user01,LG Corp,Project Cost,0
+2025-04-27,04:30,530245,user02,Samsung Ltd,Travel Expense,0
+2025-11-14,21:07,11122,user03,SK Ltd,Project Cost,0
+2025-10-06,18:13,8086368,user02,LG Corp,Outsourcing,0
+2025-05-07,14:44,1101672,user05,Samsung Ltd,Travel Expense,0
+2025-05-09,08:49,6162065,user01,Kakao Corp,Office Supplies,0
+2025-02-27,11:10,7219243,user03,Kakao Corp,Project Cost,0
+2025-05-02,19:38,658081,user01,Kakao Corp,Outsourcing,0
+2025-01-01,23:45,986160,user03,Kakao Corp,Office Supplies,1
+2025-08-27,03:49,971148,user05,Hyundai Inc,Office Supplies,0
+2025-10-17,05:19,198872,user01,SK Ltd,Office Supplies,0
+2025-04-06,03:37,653088,user04,SK Ltd,Office Supplies,0
+2025-05-06,00:59,452569,user03,Hyundai Inc,Travel Expense,0
+2025-04-28,09:36,741977,user04,LG Corp,Travel Expense,0
+2025-02-17,21:58,615084,user01,LG Corp,Travel Expense,0
+2025-03-30,12:25,-210916,user04,Kakao Corp,Outsourcing,0
+2025-08-25,22:12,395596,user04,Samsung Ltd,Outsourcing,0
+2025-09-29,02:37,559567,user01,LG Corp,Outsourcing,0
+2025-07-08,22:53,69690,user05,Samsung Ltd,Consulting Fee,0
+2025-07-11,20:15,674306,user04,SK Ltd,Outsourcing,0
+2025-03-10,03:44,42795,user04,Samsung Ltd,Travel Expense,0
+2025-10-05,09:54,260468,user05,SK Ltd,Travel Expense,0
+2025-12-15,21:38,902393,user04,Hyundai Inc,Consulting Fee,0
+2025-09-04,03:50,234866,user04,Hyundai Inc,Consulting Fee,0
+2025-03-17,18:50,672190,user04,Kakao Corp,Outsourcing,0
+2025-06-03,01:22,-26072,user02,LG Corp,Project Cost,0
+2025-05-24,17:27,1124394,user05,Kakao Corp,Consulting Fee,0
+2025-03-27,21:23,408633,user04,SK Ltd,Office Supplies,0
+2025-07-04,02:32,528596,user05,Kakao Corp,Travel Expense,0
+2025-10-12,20:21,553711,user03,Samsung Ltd,Office Supplies,0
+2025-08-08,00:54,682270,user03,SK Ltd,Travel Expense,0
+2025-03-10,13:52,5562223,user04,Hyundai Inc,Travel Expense,0
+2025-02-16,15:06,498399,user05,LG Corp,Consulting Fee,0
+2025-04-04,13:23,302369,user05,SK Ltd,Consulting Fee,0
+2025-08-26,20:57,-6867,user05,SK Ltd,Office Supplies,0
+2025-07-23,14:45,796136,user02,Samsung Ltd,Travel Expense,0
+2025-08-06,04:27,394348,user03,LG Corp,Office Supplies,0
+2025-12-07,05:46,572756,user05,Hyundai Inc,Project Cost,0
+2025-02-08,16:41,553953,user05,SK Ltd,Office Supplies,0
+2025-04-10,08:39,399544,user02,SK Ltd,Outsourcing,0
+2025-10-16,17:49,1092508,user02,Samsung Ltd,Office Supplies,0
+2025-09-11,15:29,485820,user05,Kakao Corp,Outsourcing,0
+2025-08-10,13:52,32614,user01,Hyundai Inc,Outsourcing,0
+2025-12-23,23:37,379885,user05,LG Corp,Outsourcing,0
+2025-01-23,08:20,649921,user05,SK Ltd,Project Cost,0
+2025-09-07,07:53,659778,user02,SK Ltd,Office Supplies,1
+2025-01-10,02:17,173665,user02,Hyundai Inc,Office Supplies,0
+2025-09-03,14:15,778844,user05,Kakao Corp,Project Cost,0
+2025-11-21,14:36,-28860,user05,SK Ltd,Travel Expense,0
+2025-04-10,19:42,843240,user05,Hyundai Inc,Consulting Fee,0
+2025-10-17,12:21,104195,user02,Samsung Ltd,Office Supplies,0
+2025-06-29,00:31,432126,user05,Kakao Corp,Consulting Fee,0
+2025-08-11,10:11,819370,user05,LG Corp,Project Cost,0
+2025-09-07,15:13,535881,user04,SK Ltd,Travel Expense,1
+2025-05-27,11:51,745009,user01,Hyundai Inc,Travel Expense,0
+2025-04-06,08:21,685598,user03,Samsung Ltd,Travel Expense,0
+2025-09-14,08:56,885880,user01,LG Corp,Project Cost,0
+2025-11-21,19:44,818662,user04,Hyundai Inc,Outsourcing,0
+2025-01-04,08:35,363876,user03,Hyundai Inc,Outsourcing,0
+2025-01-16,00:33,689882,user05,LG Corp,Consulting Fee,0
+2025-10-07,06:05,42034,user04,Samsung Ltd,Outsourcing,0
+2025-12-02,07:46,482628,user05,Samsung Ltd,Outsourcing,0
