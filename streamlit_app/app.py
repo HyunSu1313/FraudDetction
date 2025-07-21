@@ -59,4 +59,4 @@ try:
         st.pyplot(plot_daynight_bar(df, 'is_anomaly', 'IF 기준 낮/야간 비율', palette='Oranges', ylim=(0, 1)))
 
 except Exception as e:
-    st.error(f"❌ 오류 발생: {e}")
+    st.error(f"오류 발생: {e}")
