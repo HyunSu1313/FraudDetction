@@ -18,7 +18,7 @@ from fraud_detection_ledger.visualization import (
 )
 
 # 한글 폰트 설정
-matplotlib.rcParams['font.family'] = 'Malgun Gothic'
+matplotlib.rcParams['font.family'] = 'NanumGothic'
 matplotlib.rcParams['axes.unicode_minus'] = False
 
 @st.cache_data
